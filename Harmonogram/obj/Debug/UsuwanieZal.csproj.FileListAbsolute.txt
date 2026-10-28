@@ -1,0 +1,11 @@
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\bin\Debug\UswuwanieZal.exe.config
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\bin\Debug\UswuwanieZal.exe
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\bin\Debug\UswuwanieZal.pdb
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\bin\Debug\cdn_api20220.net.dll
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\obj\Debug\UsuwanieZal.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\obj\Debug\UsuwanieZal.Properties.Resources.resources
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\obj\Debug\UsuwanieZal.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\obj\Debug\UsuwanieZal.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\obj\Debug\UsuwanieZal.csproj.CopyComplete
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\obj\Debug\UswuwanieZal.exe
+C:\Users\magdaw\Documents\TuFlowers\UsuwanieZal\Harmonogram\obj\Debug\UswuwanieZal.pdb
